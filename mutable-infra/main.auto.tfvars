@@ -1,1 +1,3 @@
-# COMPONENT = "cart"
+COMPONENT = "cart"
+PORT = 8080
+
