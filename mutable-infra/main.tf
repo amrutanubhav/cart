@@ -7,4 +7,5 @@ module "cart" {
   OD_INSTANCE_COUNT    = var.OD_INSTANCE_COUNT
   PORT                 = var.PORT
   APP_VERSION          = var.APP_VERSION
+  ALB_TYPE             = "internal"
 }
