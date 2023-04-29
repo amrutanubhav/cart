@@ -1,3 +1,3 @@
 COMPONENT = "cart"
-PORT = 8080
+PORT = 80
 
